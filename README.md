@@ -12,7 +12,8 @@ Customer churn poses a significant risk to its long-term business sustainability
 The company's existing strategies for retaining customers lack accuracy and effectiveness, leading to the loss of valuable customers to competitors.
 
 ## Aim of the project
-
+The aim is  to create a robust customer churn prediction system by harnessing advanced analytics and machine learning techniques using available customer data. 
+To predict customer churn and execute targeted retention efforts.
 
 ## ADVANTAGES OF THE PREDICTION
 -Minimize customer attrition.
